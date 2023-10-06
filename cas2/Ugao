@@ -1,0 +1,11 @@
+#include "Ugao."
+
+Ugao::Ugao()
+{
+    //ctor
+}
+
+Ugao::~Ugao()
+{
+    //dtor
+}

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1696583030 source:c:\users\pc\desktop\oo\2023\cas2\main.cpp
+	<iostream>
+	"Ugao.h"
+
+1696583040 c:\users\pc\desktop\oo\2023\cas2\ugao.h
+	<math.h>
+	<iostream>
+
+1696582944 source:c:\users\pc\desktop\oo\2023\cas2\ugao.cpp
+	"Ugao.h"
+
