@@ -17,6 +17,11 @@ public:
     int get_sec();
     Ugao zbir(Ugao u2);
     Ugao dodaj(Ugao);
+    Ugao oduzmi(Ugao);
+    void stampaj();
+
+private:
+    void normalize(); //postavlja ugao na 0-2pi
 };
 
 
