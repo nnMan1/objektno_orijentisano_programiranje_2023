@@ -32,7 +32,10 @@ void Skup::stampaj() const {
     for(int i=0;i<pop - 1;i++)
         cout << data[i] << ", ";
 
-    cout << data[pop-1] << " }";
+    if(pop > 0)
+        cout << data[pop-1] << " }";
+    else
+        cout << "}";
 }
 
 Skup Skup::unija(const Skup& s) const {
@@ -44,8 +47,14 @@ Skup Skup::unija(const Skup& s) const {
     while(i < pop && j < s.pop) {
         if(data[i] < s.data[j])
             rez.data[k++] = data[i++];
-        else
+
+        if(data[i] > s.data[j])
             rez.data[k++] = s.data[j++];
+
+        if(data[i] == s.data[j]) {
+            rez.data[k++] = data[i++];
+            j++;
+        }
     }
 
     while(i < pop)

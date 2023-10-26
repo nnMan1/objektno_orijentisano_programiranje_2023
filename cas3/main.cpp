@@ -20,6 +20,7 @@ using namespace std;
 int main()
 {
     Skup s1;
+    cout << "s1 = "; s1.stampaj(); cout <<endl;
 
     Skup s2(s1); //konstrutkor kopije
     Skup s3 = s1; //isto sto i prethodna linija
@@ -48,6 +49,13 @@ int main()
     s7.dodaj(10);
     Skup s8 = s6.presjek(s7);
     cout << "s8 = "; s8.stampaj(); cout << endl;
+
+
+    cout << "s6 = "; s6.stampaj(); cout << endl;
+    cout << "s7 = "; s7.stampaj(); cout << endl;
+
+    Skup s9 = s7.unija(s6);
+    cout << "s9 = "; s9.stampaj(); cout << endl;
 
 
     return 0;
