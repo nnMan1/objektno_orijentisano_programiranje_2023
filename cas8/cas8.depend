@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1700170896 source:/home/velibor/MEGAsync/Posao/OO/2023_2024/cas8/main.cpp
+	<iostream>
+	"Sfera.h"
+	"Valjak.h"
+	"RedTijela.h"
+
+1700170990 source:/home/velibor/MEGAsync/Posao/OO/2023_2024/cas8/src/Tijelo.cpp
+	"Tijelo.h"
+
+1700169140 /home/velibor/MEGAsync/Posao/OO/2023_2024/cas8/include/Tijelo.h
+	<iostream>
+	<string.h>
+	<math.h>
+
+1700170993 source:/home/velibor/MEGAsync/Posao/OO/2023_2024/cas8/src/Sfera.cpp
+	"Sfera.h"
+
+1700169128 /home/velibor/MEGAsync/Posao/OO/2023_2024/cas8/include/Sfera.h
+	"Tijelo.h"
+
+1700170987 source:/home/velibor/MEGAsync/Posao/OO/2023_2024/cas8/src/Valjak.cpp
+	"Valjak.h"
+
+1700168919 /home/velibor/MEGAsync/Posao/OO/2023_2024/cas8/include/Valjak.h
+	"Tijelo.h"
+
+1700170911 source:/home/velibor/MEGAsync/Posao/OO/2023_2024/cas8/src/RedTijela.cpp
+	"RedTijela.h"
+
+1700170722 /home/velibor/MEGAsync/Posao/OO/2023_2024/cas8/include/RedTijela.h
+	"Tijelo.h"
+	<iostream>
+
