@@ -10,3 +10,21 @@
 1696582944 source:c:\users\pc\desktop\oo\2023\cas2\ugao.cpp
 	"Ugao.h"
 
+1697746375 source:/home/velibor/MEGAsync/Posao/OO/2023_2024/cas2/main.cpp
+	<iostream>
+	"Ugao.h"
+	"Stack.h"
+
+1697736245 /home/velibor/MEGAsync/Posao/OO/2023_2024/cas2/Ugao.h
+	<math.h>
+	<iostream>
+
+1697736314 source:/home/velibor/MEGAsync/Posao/OO/2023_2024/cas2/Ugao.cpp
+	"Ugao.h"
+
+1697745860 /home/velibor/MEGAsync/Posao/OO/2023_2024/cas2/Stack.h
+	<iostream>
+
+1697746397 source:/home/velibor/MEGAsync/Posao/OO/2023_2024/cas2/Stack.cpp
+	"Stack.h"
+

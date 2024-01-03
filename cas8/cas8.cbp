@@ -13,6 +13,7 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-g" />
+					<Add directory="include" />
 				</Compiler>
 			</Target>
 			<Target title="Release">
@@ -22,6 +23,7 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-O2" />
+					<Add directory="include" />
 				</Compiler>
 				<Linker>
 					<Add option="-s" />
@@ -32,7 +34,15 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/RedTijela.h" />
+		<Unit filename="include/Sfera.h" />
+		<Unit filename="include/Tijelo.h" />
+		<Unit filename="include/Valjak.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/RedTijela.cpp" />
+		<Unit filename="src/Sfera.cpp" />
+		<Unit filename="src/Tijelo.cpp" />
+		<Unit filename="src/Valjak.cpp" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>

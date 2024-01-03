@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1702634579 source:c:\users\pc\desktop\oo\2023\cas12\main.cpp
+	<iostream>
+	"GenMatrix.h"
+	"Test.h"
+
+1702632859 
+
+1702634506 source:c:\users\pc\desktop\oo\2023\cas12\genmatrix.cpp
+	"GenMatrix.h"
+
+1702634770 .h"
+
+1702634691 c:\users\pc\desktop\oo\2023\cas12\genmatrix.h
+	<exception>
+	"GenMatrix.cpp"
+
+1702634691 .cpp"
+
+1702634770 c:\users\pc\desktop\oo\2023\cas12\genmatrix.cpp
+	"GenMatrix.h"
+
+1702632859 source:c:\users\pc\desktop\oo\2023\cas12\src\test.cpp
+	"Test.h"
+
+1702633872 c:\users\pc\desktop\oo\2023\cas12\include\test.h
+	"../src/Test.cpp"
+
+1702633872 st.cpp"
+
+1702632859 c:\users\pc\desktop\oo\2023\cas12\src\test.cpp
+	"Test.h"
+
+1702638372 source:/media/velibor/KINGSTON/2023/cas12/GenMatrix.cpp
+	"GenMatrix.h"
+
+1702638292 /media/velibor/KINGSTON/2023/cas12/GenMatrix.h
+	<exception>
+	"GenMatrix.cpp"
+
+1702638372 /media/velibor/KINGSTON/2023/cas12/GenMatrix.cpp
+	"GenMatrix.h"
+
+1703201034 source:/media/velibor/KINGSTON/2023/cas12/main.cpp
+	<iostream>
+	"GenMatrix.h"
+
+1703232481 source:/home/velibor/MEGAsync/Posao/OO/2023_2024/cas12/main.cpp
+	<iostream>
+	"GenMatrix.h"
+
+1703203664 /home/velibor/MEGAsync/Posao/OO/2023_2024/cas12/GenMatrix.h
+	<exception>
+	"GenMatrix.cpp"
+
+1703201612 /home/velibor/MEGAsync/Posao/OO/2023_2024/cas12/GenMatrix.cpp
+	"GenMatrix.h"
+
+1703201612 source:/home/velibor/MEGAsync/Posao/OO/2023_2024/cas12/GenMatrix.cpp
+	"GenMatrix.h"
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1698356667 source:/home/velibor/MEGAsync/Posao/OO/2023_2024/cas4/src/Datum.cpp
+	"Datum.h"
+
+1698356650 /home/velibor/MEGAsync/Posao/OO/2023_2024/cas4/include/Datum.h
+	<iostream>
+
+1698359897 source:/home/velibor/MEGAsync/Posao/OO/2023_2024/cas4/main.cpp
+	<iostream>
+	"Datum.h"
+	"ListaDatuma.h"
+
+1698359861 source:/home/velibor/MEGAsync/Posao/OO/2023_2024/cas4/src/ListaDatuma.cpp
+	"ListaDatuma.h"
+
+1698359866 /home/velibor/MEGAsync/Posao/OO/2023_2024/cas4/include/ListaDatuma.h
+	<iostream>
+	"Datum.h"
+

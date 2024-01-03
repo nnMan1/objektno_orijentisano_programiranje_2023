@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1698351985 source:/home/velibor/MEGAsync/Posao/OO/2023_2024/cas3/main.cpp
+	<iostream>
+	"Skup.h"
+
+1698351999 source:/home/velibor/MEGAsync/Posao/OO/2023_2024/cas3/src/Skup.cpp
+	"Skup.h"
+
+1697751382 /home/velibor/MEGAsync/Posao/OO/2023_2024/cas3/include/Skup.h
+	<iostream>
+	<algorithm>
+

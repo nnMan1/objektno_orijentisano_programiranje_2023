@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="include/ListaDatuma.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="281" topLine="1" />
+		</Cursor>
+	</File>
+	<File name="src/Datum.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1488" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="10" />
+			<Collapse line="15" />
+			<Collapse line="19" />
+			<Collapse line="29" />
+			<Collapse line="33" />
+			<Collapse line="51" />
+			<Collapse line="65" />
+			<Collapse line="73" />
+			<Collapse line="86" />
+		</Folding>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="649" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="include/Datum.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="659" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src/ListaDatuma.cpp" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1681" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="8" />
+			<Collapse line="20" />
+			<Collapse line="25" />
+			<Collapse line="33" />
+			<Collapse line="38" />
+			<Collapse line="51" />
+			<Collapse line="62" />
+			<Collapse line="67" />
+			<Collapse line="80" />
+			<Collapse line="95" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

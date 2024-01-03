@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1702029298 source:c:\users\pc\desktop\oo\2023\cas8\main.cpp
+	<iostream>
+	"Tijelo.h"
+	"Sfera.h"
+	"Valjak.h"
+	"RedTijela.h"
+	<exception>
+
+1700818973 source:c:\users\pc\desktop\oo\2023\cas8\tijelo.cpp
+	"Tijelo.h"
+
+1700818937 c:\users\pc\desktop\oo\2023\cas8\tijelo.h
+	"math.h"
+	<string.h>
+	<iostream>
+
+1700818997 c:\users\pc\desktop\oo\2023\cas8\sfera.h
+	"Tijelo.h"
+
+1700818964 source:c:\users\pc\desktop\oo\2023\cas8\sfera.cpp
+	"Sfera.h"
+
+1700818951 source:c:\users\pc\desktop\oo\2023\cas8\valjak.cpp
+	"Valjak.h"
+
+1700819021 c:\users\pc\desktop\oo\2023\cas8\valjak.h
+	"Tijelo.h"
+
+1702029365 source:c:\users\pc\desktop\oo\2023\cas8\redtijela.cpp
+	"RedTijela.h"
+
+1702028577 c:\users\pc\desktop\oo\2023\cas8\redtijela.h
+	"Tijelo.h"
+	<exception>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1702593483 source:/home/velibor/MEGAsync/Posao/OO/2023_2024/cas9/cas9/main.cpp
+	<iostream>
+	"HashTable.h"
+
+1702593425 source:/home/velibor/MEGAsync/Posao/OO/2023_2024/cas9/cas9/HashTable.cpp
+	"HashTable.h"
+
+1702593529 /home/velibor/MEGAsync/Posao/OO/2023_2024/cas9/cas9/HashTable.h
+	<iostream>
+	"HashTable.cpp"
+
+1702593425 /home/velibor/MEGAsync/Posao/OO/2023_2024/cas9/cas9/HashTable.cpp
+	"HashTable.h"
+

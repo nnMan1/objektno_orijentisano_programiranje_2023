@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1703237102 source:c:\users\pc\desktop\oo\2023\cas12\main.cpp
+	<iostream>
+	"GenMatrix.h"
+	"Valuta.h"
+	"Test.h"
+
+1703235548 source:c:\users\pc\desktop\oo\2023\cas12\genmatrix.cpp
+	"GenMatrix.h"
+
+1703235272 c:\users\pc\desktop\oo\2023\cas12\genmatrix.h
+	<exception>
+	<algorithm>
+	<iostream>
+	"GenMatrix.cpp"
+
+1703235548 c:\users\pc\desktop\oo\2023\cas12\genmatrix.cpp
+	"GenMatrix.h"
+
+1702632859 source:c:\users\pc\desktop\oo\2023\cas12\src\test.cpp
+	"Test.h"
+
+1702633872 c:\users\pc\desktop\oo\2023\cas12\include\test.h
+	"../src/Test.cpp"
+
+1702632859 c:\users\pc\desktop\oo\2023\cas12\src\test.cpp
+	"Test.h"
+
+1703236949 source:c:\users\pc\desktop\oo\2023\cas12\valuta.cpp
+	"Valuta.h"
+
+1703237112 c:\users\pc\desktop\oo\2023\cas12\valuta.h
+	<vector>
+	<map>
+	<set>
+	<list>
+	<queue>
+	<stack>
+	<string.h>
+	<iostream>
+
